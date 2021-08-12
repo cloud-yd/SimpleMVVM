@@ -1,0 +1,6 @@
+#Build Output
+bin/
+obj/
+
+#Visual Studio
+.vs/
