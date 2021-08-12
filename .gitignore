@@ -1,0 +1,8 @@
+#Build Output
+/LearnMVVM/bin/
+/LearnMVVM/obj/
+/MVVMLib/bin
+/MVVMLib/obj
+
+#Visual Studio
+.vs/
